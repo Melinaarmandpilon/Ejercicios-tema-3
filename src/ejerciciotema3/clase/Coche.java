@@ -1,4 +1,4 @@
-package funciones;
+package ejerciciotema3.clase;
 
 public class Coche {
     public int numeroPuertas;

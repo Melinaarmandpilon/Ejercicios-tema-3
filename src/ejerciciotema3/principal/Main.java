@@ -1,5 +1,5 @@
-package EntornoDesarrollo;
-import funciones.Coche;
+package ejerciciotema3.principal;
+import ejerciciotema3.clase.Coche;
 
 public class Main {
 
